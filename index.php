@@ -36,7 +36,6 @@ if (isset($_POST['connexion'])) {
                         <label for="">Votre mot de passe</label>
                         <input type="password" name="motdepasse" placeholder="Entrer le mot de passe" id="" class="form-control" required>
                         <br>
-                        <input type="datetime-local" name="" id="">
                         <input type="submit" name="connexion" value="Se connecter" class="btn btn-success btn-lg">
                     </form>
                 </div>
